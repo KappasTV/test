@@ -1,0 +1,25 @@
+.content-wrapper {
+  text-align: center;
+  padding-top: 50px;
+  width: 300px;
+}
+
+.logo {
+  width: auto;
+  height: 100px;
+}
+
+.heading {
+  font-weight: 600;
+}
+
+.subheading {
+  color: rgba(0,0,0,0.6);
+  font-size: 12px;
+}
+
+.alert {
+  width: 300px;
+  position: absolute;
+  bottom: 0;
+}
